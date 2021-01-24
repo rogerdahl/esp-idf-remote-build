@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssRedundantUnit" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="41">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="json5" />
+            <item index="2" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="3" class="java.lang.String" itemvalue="atomicwrites" />
+            <item index="4" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="5" class="java.lang.String" itemvalue="pluggy" />
+            <item index="6" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="7" class="java.lang.String" itemvalue="funcsigs" />
+            <item index="8" class="java.lang.String" itemvalue="py" />
+            <item index="9" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="10" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="11" class="java.lang.String" itemvalue="backports.lzma" />
+            <item index="12" class="java.lang.String" itemvalue="appdirs" />
+            <item index="13" class="java.lang.String" itemvalue="pathlib" />
+            <item index="14" class="java.lang.String" itemvalue="filelock" />
+            <item index="15" class="java.lang.String" itemvalue="contextlib2" />
+            <item index="16" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="17" class="java.lang.String" itemvalue="freezegun" />
+            <item index="18" class="java.lang.String" itemvalue="scandir" />
+            <item index="19" class="java.lang.String" itemvalue="zipp" />
+            <item index="20" class="java.lang.String" itemvalue="lxml" />
+            <item index="21" class="java.lang.String" itemvalue="libsass" />
+            <item index="22" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="23" class="java.lang.String" itemvalue="six" />
+            <item index="24" class="java.lang.String" itemvalue="pytest" />
+            <item index="25" class="java.lang.String" itemvalue="future-fstrings" />
+            <item index="26" class="java.lang.String" itemvalue="packaging" />
+            <item index="27" class="java.lang.String" itemvalue="pathlib2" />
+            <item index="28" class="java.lang.String" itemvalue="attrs" />
+            <item index="29" class="java.lang.String" itemvalue="singledispatch" />
+            <item index="30" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="31" class="java.lang.String" itemvalue="configparser" />
+            <item index="32" class="java.lang.String" itemvalue="Django" />
+            <item index="33" class="java.lang.String" itemvalue="backports.functools-lru-cache" />
+            <item index="34" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="35" class="java.lang.String" itemvalue="typing" />
+            <item index="36" class="java.lang.String" itemvalue="distlib" />
+            <item index="37" class="java.lang.String" itemvalue="mock" />
+            <item index="38" class="java.lang.String" itemvalue="hjson" />
+            <item index="39" class="java.lang.String" itemvalue="pytz" />
+            <item index="40" class="java.lang.String" itemvalue="tokenize-rt" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="E501" />
+          <option value="E306" />
+          <option value="E301" />
+          <option value="E302" />
+          <option value="E201" />
+          <option value="E305" />
+          <option value="E402" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="youtube_dl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+      <option name="m_ignoreAnnotatedVariables" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
